@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(64, 64, 64);
+}
+
+a {
+    color: rgb(255, 128, 0);
+}
+
+.name {
+	color: rgb(0, 102, 204);
+	font-size: 50px;
+	text-align: center;
+	margin-top: 130px;
+}
+
+.text {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	text-align: center;
+	margin-top: -40px;
+}
+
+.motd {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+	border: 2.5px;
+	border-style: solid;
+	border-color: white;
+}
+
+.sponserGag {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.quote {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	text-align: center;
+	margin-top: -10px;
+}
+
+.hiddentext {
+	color: rgb(64, 64, 64);
+	margin-top: -440px;
+}
