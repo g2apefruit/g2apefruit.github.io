@@ -3,7 +3,14 @@ body {
 }
 
 a {
-    color: rgb(255, 128, 0);
+	color: rgb(255, 128, 0);
+}
+
+img {
+	margin-top: 300px;
+	margin-left: 125px;
+	width: 150px;
+	height: 175px;
 }
 
 .name {
@@ -47,4 +54,11 @@ a {
 .hiddentext {
 	color: rgb(64, 64, 64);
 	margin-top: -440px;
+}
+
+.nickstree {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	margin-top: -10px;
+	margin-left: 130px;
 }
