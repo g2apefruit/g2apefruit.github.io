@@ -1,64 +1,29 @@
 body {
-	background-color: rgb(64, 64, 64);
-}
-
-a {
-	color: rgb(255, 128, 0);
-}
-
-img {
-	margin-top: 300px;
-	margin-left: 125px;
-	width: 150px;
-	height: 175px;
+	background-color: rgb(255, 178, 102);
 }
 
 .name {
-	color: rgb(0, 102, 204);
-	font-size: 50px;
+	color: rgb(64, 64, 64);
 	text-align: center;
-	margin-top: 130px;
-}
-
-.text {
-	color: rgb(255, 255, 255);
-	font-size: 20px;
-	text-align: center;
-	margin-top: -40px;
+	margin-top: -460px;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 55px;
 }
 
 .motw {
-	color: rgb(255, 255, 255);
-	font-size: 20px;
-	text-align: center;
-	margin-top: 10px;
-	border: 2.5px;
-	border-style: solid;
-	border-color: white;
-}
-
-.sponserGag {
-	color: rgb(255, 255, 255);
-	font-size: 20px;
-	text-align: center;
-	margin-top: 40px;
-}
-
-.quote {
-	color: rgb(255, 255, 255);
-	font-size: 20px;
-	text-align: center;
-	margin-top: -10px;
-}
-
-.hiddentext {
 	color: rgb(64, 64, 64);
-	margin-top: -440px;
+	text-align: center;
+	margin-top: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 30px;
 }
 
-.nickstree {
-	color: rgb(255, 255, 255);
-	font-size: 20px;
-	margin-top: -10px;
-	margin-left: 130px;
+.box {
+	background-color: rgb(255, 153, 51);
+	margin-top: 65px;
+	margin-left: 371px;
+	width: 600px;
+	height: 480px;
 }
